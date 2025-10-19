@@ -1,9 +1,5 @@
 # Gestão de Tarefas — Refatoração
 
-Repositório **refatorado** do exercício Gerenciador de Tarefas.
-
-Separação em componentes, hooks customizados, estilos centralizados e constantes. Documentação focada em explicar a refatoração e os conceitos aplicados.
-
 ## Visão Geral
 
 O objetivo desta refatoração foi transformar um único arquivo monolítico (`Codigo.jsx`) em uma estrutura **modular** e **organizada**, facilitando **manutenção**, **legibilidade**, **reuso** e **testabilidade**. A lógica (estado e comportamento), a apresentação (componentes) e os estilos foram separados em responsabilidades claras.
